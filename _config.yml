@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: shuffle                          # the main title
+title: shuffle                          
 
 tagline: shuffle's blog   # it will display as the sub-title
 
