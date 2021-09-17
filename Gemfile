@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 4.2", ">= 4.2.1"
 
+gem "jekyll-paginate", "~> 1.1"
+
 group :jekyll_plugins do
   # If you have any plugins, put them here!
   # gem "jekyll-xxx", "~> x.y"
