@@ -19,9 +19,6 @@ tagline: shuffle's blog   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   personal blog
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'shuffleyxf.github.io'
-
 github:
   username: shuffleyxf             # change to your github username
 
