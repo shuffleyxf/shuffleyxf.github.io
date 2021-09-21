@@ -1,11 +1,9 @@
 ---
 title: 《走在自己的时区里》
 date: 2021-09-16 08:40:00 +/-0800
-categories: [Animal, Insect]
-tags: [bee]
+categories: [其它, 测试]
+tags: [诗歌]
 ---
-《走在自己的时区里》：
-
 在时间上，纽约走在加州前面三个小时，
 
 New York is 3 hours ahead of California,
